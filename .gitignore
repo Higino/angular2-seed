@@ -60,3 +60,6 @@ internal/
 #Exclude tsc generated files
 js/*.map
 js/ts.js
+app/*.map
+app/ts.js
+app/*.js
